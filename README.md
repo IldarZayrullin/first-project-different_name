@@ -11,7 +11,7 @@
 	_I may spend more time, just deny somethings is not so important_
 
 **Just for case:**
-"""mkdir my_project
+```mkdir my_project
 cd my_project
 git init
-"""
+```

@@ -15,3 +15,5 @@
 cd my_project
 git init
 ```
+
+[Гит](https://www.github.com "GitHub")

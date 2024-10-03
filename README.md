@@ -4,20 +4,19 @@
 
 ### 1. Main commands<br>
 **cd** (**c**hange **d**irectory) - to get to the directory where you going to work <br>
-	cd Downloads/PhD - you will get to subfolder PhD in folder Downloads <br>
+	_example:_ cd Downloads/PhD - you will get to subfolder PhD in folder Downloads <br>
 **git init** - to initialize git repository in current folder<br>
 **rm -rf .git** - to delete .git if you have some troubles<br>
 **git status** - to check status<br>
 
 ### 2. Add files to repository<br>
 **git add --all**, **git add .** - to start tracking files<br>
-**git commit**<br>
-**git commit -m "Text"** - to save changes<br>
+**git commit**, **git commit -m "Text"** - to save changes<br>
 **git log** - to see history logs<br>
 	
 ### 3. SSH keys generating <br>
 **ls -la .ssh** - to check existing keys<br>
-**ssh-keygen -t ed25519 -C "электронная почта, к которой привязан ваш аккаунт на GitHub"** - to create new keys<br>
+**ssh-keygen -t ed25519 -C "_электронная почта, к которой привязан ваш аккаунт на GitHub_"** - to create new keys<br>
 **pbcopy < ~/.ssh/id_rsa.pub** - to copy key to clipboard
 
 ## Part 2. GitHub.com

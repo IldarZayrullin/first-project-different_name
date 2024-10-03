@@ -26,12 +26,12 @@
 **Settings -> SSH and GPG keys -> New SSH key -> Add SSH key** - workflow to add key<b>
 **ssh -T git@github.com ** - to check status<b>
 ### 2. Connecting
-**git remote add origin git@github.com:%ИМЯ_АККАУНТА%/first-project.git ** - to linking local and remote repositories <b>
+**git remote add origin git@github.com:%ИМЯ_АККАУНТА%/first-project.git ** - to link local and remote repositories <b>
 **git remote -v** - to check it<b>
 ### 3. Pull/Push
-**git push -u origin main** - to pushing for the first time
-**git push** - to push data to repository
-**git pull** - to pull data from repository
+**git push -u origin main** - to pushing for the first time<b>
+**git push** - to push data to repository<b>
+**git pull** - to pull data from repository<b>
 
 
 
